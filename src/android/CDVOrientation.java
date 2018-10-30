@@ -21,6 +21,7 @@
 
 package cordova.plugins.screenorientation;
 
+import org.elastos.trinity.dapprt.TrinityPlugin;
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
 
@@ -31,7 +32,7 @@ import android.app.Activity;
 import android.content.pm.ActivityInfo;
 import android.util.Log;
 
-public class CDVOrientation extends CordovaPlugin {
+public class CDVOrientation extends TrinityPlugin {
     
     private static final String TAG = "YoikScreenOrientation"; 
     
