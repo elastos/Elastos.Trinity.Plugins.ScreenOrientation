@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-screen-orientation",
+  "name": "elastos-trinity-plugins-screen-orientation",
   "version": "3.0.2-dev",
   "description": "Cordova Screen Orientation plugin",
   "repository": {
