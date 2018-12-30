@@ -22,8 +22,9 @@
 #import <Cordova/CDVPlugin.h>
 #import <UIKit/UIKit.h>
 #import <Cordova/CDVViewController.h>
+#import "TrinityPlugin.h"
 
-@interface CDVOrientation : CDVPlugin
+@interface CDVOrientation : TrinityPlugin
 {
 @protected
     BOOL _isLocked;
