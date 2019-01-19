@@ -23,7 +23,7 @@ description: Set the screen orientation
 
 |AppVeyor|Travis CI|
 |:-:|:-:|
-|[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-screen-orientation?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-screen-orientation)|[![Build Status](https://travis-ci.org/apache/cordova-plugin-screen-orientation.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-screen-orientation)|
+|[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/elastos-trinity-plugins-screen-orientation?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/elastos-trinity-plugins-screen-orientation)|[![Build Status](https://travis-ci.org/apache/elastos-trinity-plugins-screen-orientation.svg?branch=master)](https://travis-ci.org/apache/elastos-trinity-plugins-screen-orientation)|
 
 # Cordova Screen Orientation Plugin
 
@@ -46,7 +46,7 @@ The plugin adds the following to the screen object (`window.screen`):
 
 
 ```bash
-cordova plugin add cordova-plugin-screen-orientation
+cordova plugin add elastos-trinity-plugins-screen-orientation
 ```
 
 ## Supported Orientations
@@ -131,15 +131,15 @@ See [RELEASENOTES.md](RELEASENOTES.md) for the automated changelog.
 * Common javascript for iOS, Android and Windows.
 
 ## 1.4.2
-* [#101](https://github.com/gbenvenuti/cordova-plugin-screen-orientation/pull/101) make iOS rotate as needed when lockOrientation is called
+* [#101](https://github.com/gbenvenuti/elastos-trinity-plugins-screen-orientation/pull/101) make iOS rotate as needed when lockOrientation is called
 
 ## 1.4.1
-* [#89](https://github.com/gbenvenuti/cordova-plugin-screen-orientation/pull/89) Fix for cordova >= 3.6.3
+* [#89](https://github.com/gbenvenuti/elastos-trinity-plugins-screen-orientation/pull/89) Fix for cordova >= 3.6.3
 
 ## 1.4.0
 * Added Windows 8.1 Support
-* [#54](https://github.com/gbenvenuti/cordova-plugin-screen-orientation/pull/54) Background thread for ios
-* [#64](https://github.com/gbenvenuti/cordova-plugin-screen-orientation/pull/64) Orientation naming bug fixed
+* [#54](https://github.com/gbenvenuti/elastos-trinity-plugins-screen-orientation/pull/54) Background thread for ios
+* [#64](https://github.com/gbenvenuti/elastos-trinity-plugins-screen-orientation/pull/64) Orientation naming bug fixed
 * Add portrait upside down to iOS default orientations
 
 ## 1.3.5-6
@@ -149,19 +149,19 @@ See [RELEASENOTES.md](RELEASENOTES.md) for the automated changelog.
 * Readme update
 
 ## 1.3.3
-* [#53](https://github.com/gbenvenuti/cordova-plugin-screen-orientation/pull/53) WP8 Support
+* [#53](https://github.com/gbenvenuti/elastos-trinity-plugins-screen-orientation/pull/53) WP8 Support
 
 ## 1.3.2
 
-* [#33](https://github.com/gbenvenuti/cordova-plugin-screen-orientation/issues/33) iOS8 Delay Block
+* [#33](https://github.com/gbenvenuti/elastos-trinity-plugins-screen-orientation/issues/33) iOS8 Delay Block
 
 ## 1.3.0
 
-* [#23](https://github.com/gbenvenuti/cordova-plugin-screen-orientation/issues/23) iOS8 flicker
+* [#23](https://github.com/gbenvenuti/elastos-trinity-plugins-screen-orientation/issues/23) iOS8 flicker
 
 ## 1.2.0-1.2.1
 
-* [#19](https://github.com/gbenvenuti/cordova-plugin-screen-orientation/issues/19) iOS8 Crash
+* [#19](https://github.com/gbenvenuti/elastos-trinity-plugins-screen-orientation/issues/19) iOS8 Crash
 
 
 
