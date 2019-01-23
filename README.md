@@ -46,8 +46,9 @@ The plugin adds the following to the screen object (`window.screen`):
 
 
 ```bash
-cordova plugin add elastos-trinity-plugins-screen-orientation
+cordova plugin add https://github.com/elastos/Elastos.Trinity.Plugins.ScreenOrientation.git
 ```
+The plugins field of dapp manifest.json adds CDVOrientation values, such as "plugins": ["XXXX", "CDVOrientation", "XXXX"]
 
 ## Supported Orientations
 
