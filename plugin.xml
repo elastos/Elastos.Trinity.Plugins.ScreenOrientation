@@ -19,7 +19,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="elastos-trinity-plugins-screen-orientation"
     version="3.0.2-dev">
-    <name>Screen Orientation</name>
+    <name>CDVOrientation</name>
     <description>Cordova Screen Orientation plugin</description>
     <license>Apache 2.0</license>
 
